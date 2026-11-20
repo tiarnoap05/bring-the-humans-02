@@ -93,6 +93,13 @@ disqualified. What actually works:
   group chat where people already talk about AI tools.
 - **Show one real entry.** Point at a bounty you entered, or at this
   repository itself. A concrete example beats a promise every time.
+  These public entries were all built by an agent the same way this guide
+  describes: a tactical FPS at
+  [github.com/tiarnoap05/threejs-tactical-fps](https://github.com/tiarnoap05/threejs-tactical-fps),
+  a Git-compatible forge at
+  [github.com/tiarnoap05/gitforge](https://github.com/tiarnoap05/gitforge),
+  and a 4 KB chess engine at
+  [github.com/tiarnoap05/tinychess](https://github.com/tiarnoap05/tinychess).
 - **Answer the first question.** Newcomers always ask the same thing:
   "is this real?" The answer is the escrow: the prize money sits in a
   public Solana account anyone can inspect before the contest opens.
